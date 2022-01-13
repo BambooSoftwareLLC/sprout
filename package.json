@@ -1,5 +1,5 @@
 {
-  "name": "@bamboo/sprout",
+  "name": "@bamboosoftware/sprout",
   "version": "1.0.0",
   "description": "Super opinionated web app bootstrapper",
   "main": "dist/index.js",
