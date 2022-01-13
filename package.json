@@ -1,0 +1,29 @@
+{
+  "name": "@bamboo/sprout",
+  "version": "1.0.0",
+  "description": "Super opinionated web app bootstrapper",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BambooSoftwareLLC/sprout.git"
+  },
+  "keywords": [
+    "sprout",
+    "nodejs",
+    "typescript",
+    "google",
+    "cloud",
+    "docker",
+    "vue",
+    "tailwind"
+  ],
+  "author": "Michael Harris",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BambooSoftwareLLC/sprout/issues"
+  },
+  "homepage": "https://github.com/BambooSoftwareLLC/sprout#readme"
+}
