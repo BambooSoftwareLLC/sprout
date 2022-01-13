@@ -1,7 +1,7 @@
 # sprout
 Super opinionated web app bootstrapper
 
-# Summary
+## Summary
 - API
 - Frontend
 - Bots
@@ -12,7 +12,7 @@ Super opinionated web app bootstrapper
 - Google Cloud
 - Setup AND DEPLOY in single script
 
-# API
+## API
 - NodeJS
 - TypeScript
 - NestJS
@@ -26,7 +26,7 @@ Super opinionated web app bootstrapper
 - Google PubSub
 - Logging
 
-# Front
+## Front
 - VueJS
 - Vuex
 - TypeScript
@@ -39,14 +39,14 @@ Super opinionated web app bootstrapper
 - Google Firebase Auth
 - Google Analytics
 
-# Bots
+## Bots
 - NodeJS
 - TypeScript
 - `npm bamboo sprout bot` script
 - Docker
 - Google Cloud Build
 
-# Process
+## Process
 - `npm bamboo sprout web MyNewApp`
 - check GCP credentials, requesting if not current
 - create GCP project
@@ -65,7 +65,7 @@ Super opinionated web app bootstrapper
 - push
 - deploy all
 
-# Future Features
+## Future Features
 - Slack integration
 - create prod environment
 - use Terraform or similar for cloud infrastructure?
