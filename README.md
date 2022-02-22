@@ -28,7 +28,7 @@ Super opinionated web app bootstrapper
 
 ## Front
 - VueJS
-- Vuex
+- Vuex or Pinia
 - TypeScript
 - Tailwind
 - Auth flows (sign in, sign out, sign up, forgot password, reset password, federated auth)
